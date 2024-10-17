@@ -14,7 +14,7 @@ https://app.powerbi.com/reportEmbed?reportId=9dd51156-886d-465b-8fba-7ffe22aaaec
 
 # Cover Page:
 
-![image](https://github.com/shreymukh2020/PowerBI-HR-Analytics-Report-/blob/main/Novypro_HR.png)
+![image](https://github.com/shreymukh2020/PowerBI-HR-Analytics-Report-/blob/main/Homepage.jpg)
 
 # Headcount Page:
 
