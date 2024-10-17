@@ -10,4 +10,4 @@ With intuitive visuals and comprehensive data, this dashboard empowers leaders t
 
 
 
-![image][(https://github.com/shreymukh2020/PowerBI-HR-Analytics-Report-/blob/main/Novypro_HR.png)]
+![image] [(https://github.com/shreymukh2020/PowerBI-HR-Analytics-Report-/blob/main/Novypro_HR.png)]
